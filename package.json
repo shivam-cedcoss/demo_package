@@ -1,0 +1,22 @@
+{
+  "name": "@shivam-cedcoss/demo_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-cedcoss/demo_package.git"
+  },
+  "author": "Shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam-cedcoss/demo_package/issues"
+  },
+  "homepage": "https://github.com/shivam-cedcoss/demo_package#readme",
+  "publishConfig": {
+    "@shivam-cedcoss:registry": "https://npm.pkg.github.com"
+  }
+}
